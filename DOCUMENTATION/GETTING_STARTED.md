@@ -18,4 +18,4 @@ You can always **@mention** to know what is the current prefix set.
 
 Remember to read the [Terms of Service](https://aero.bot/terms) and the [Privacy Policy](https://aero.bot/privacy).
 
-[🏠 Home](./README.md) | [➡️ Table of Contents](./TABLE_OF_CONTENTS.md)
+[🏠 Home](../README.md) | [➡️ Table of Contents](./TABLE_OF_CONTENTS.md)
