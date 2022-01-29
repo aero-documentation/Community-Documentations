@@ -16,4 +16,4 @@ If you're already using a bot like Dyno, Carl, Mee6, or any of the other popular
 
 > { } is for required arguments
 
-[☁️]() | [➡️ Getting Started](./documentation/GETTING_STARTED.md)
+[☁️]() | [➡️ Getting Started](./DOCUMENTATION/GETTING_STARTED.md)
